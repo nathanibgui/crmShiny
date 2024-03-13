@@ -1,0 +1,23 @@
+
+/* Ajouter des classes pour le contour arrondi et l'ombre */
+.rounded-info-box {
+  border-radius: 8px; /* Ajustez la valeur selon votre préférence */
+  transition: transform 0.1s ease-in-out; /* Transition pour l'effet d'agrandissement */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ajustez les valeurs selon votre préférence */
+}
+
+/* Effet d'agrandissement au survol */
+.rounded-info-box:hover {
+  transform: scale(1.01); /* Ajustez la valeur selon votre préférence */
+}
+
+
+.custom-select-style {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+  transition: transform 0.1s ease-in-out; /* Transition pour l'effet d'agrandissement */
+  cursor: pointer; /* Curseur au survol */
+}
+
+.custom-select-style:hover {
+  transform: scale(1.01); /* Ajustez la valeur selon votre préférence */
+}

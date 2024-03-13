@@ -1,0 +1,12 @@
+name: Dashboard_Nathan
+title: Dashboard_Nathan
+username:
+account: tdb-departement-donnees-etudes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8586564
+bundleId: 8128738
+url: https://tdb-departement-donnees-etudes.shinyapps.io/Dashboard_Nathan/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/MARIANNE_ET_LOGO_RVB_Vecto.ai

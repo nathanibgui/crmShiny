@@ -1,0 +1,13 @@
+name: Dashboard-v2
+title: Dashboard-v2
+username: tdb-departement-donnees-etudes
+account: tdb-departement-donnees-etudes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10020757
+bundleId: 8345162
+url: https://tdb-departement-donnees-etudes.shinyapps.io/Dashboard-v2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/MARIANNE_ET_LOGO_RVB_Vecto.ai
